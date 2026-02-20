@@ -1,0 +1,177 @@
+### chrome ###
+Google LLC
+版权所有 2026 Google LLC. 保留所有权利。
+Google Chrome	144.0.7559.109 (正式版本) （64 位） 
+修订版本	6a8d5e49388fcc8a7d56d2a275e4ef424eb10960-refs/branch-heads/7559@{#4008}
+操作系统	Android 12; M2007J3SY Build/SKQ1.211006.001; 31; REL
+APK versionCode	755910933
+APK targetSdkVersion	36
+Google Play 服务	SDK=254930000; Installed=240913189; Access=1p
+JavaScript	V8 14.4.258.23
+用户代理	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+命令行	--top-controls-show-threshold=0.27 --top-controls-hide-threshold=0.17 --background-thread-pool-field-trial=6 --enable-viewport --validate-input-event-stream --enable-longpress-drag-selection --touch-selection-strategy=direction --disable-composited-antialiasing --enable-dom-distiller --flag-switches-begin --flag-switches-end
+可执行文件路径	不存在此类文件或目录
+个人资料路径	/data/data/com.android.chrome/app_chrome/Default
+命令行变体	eyJkaXNhYmxlLWZlYXR1cmVzIjoiQW5kcm9pZFdhcm1VcFNwYXJlUmVuZGVy...	
+使用中的变体	b7f7d766-377be55a
+3fe6825b-541a3c39
+380cddb9-33c3eba5
+6166a7f-2f5831e3
+b200b241-ea6890d9
+8e61cee1-e7deb741
+8d10c4e4-ca7d8d80
+8704866f-6eb77daf
+9808043e-33c3eba5
+8aa505f1-2a3e44e1
+58cd7f4a-50da2847
+a66fd611-6edc92c7
+decd384-377be55a
+cb3b68b-53f2c9ef
+660c799-ca7d8d80
+de2a296c-377be55a
+a6ba7388-14d192ba
+ff6056ba-ca7d8d80
+d9536a8f-ca7d8d80
+94e21eca-ca7d8d80
+17f7d1df-ca7d8d80
+23dc5238-23ee7c7b
+8f80c10-1f8c5973
+6c9cf024-33c3eba5
+1eb32835-3f4a17df
+85ff33fa-377be55a
+3095aa95-3f4a17df
+95aa4f84-ddcb0eb
+77d902ab-377be55a
+49e9b97e-10db844
+9fdb24c-49aee7fb
+41e765a5-ca7d8d80
+1ae05955-8f1dc832
+3f090b99-ca7d8d80
+f314f5b9-21f7d5de
+36726ffb-ca7d8d80
+3747a4f2-377be55a
+1ece817e-377be55a
+578a5e44-377be55a
+e7158343-3f4a17df
+fc1790de-ca7d8d80
+11d973f6-377be55a
+33cd5237-377be55a
+4bb7a973-377be55a
+5e4b4ebb-97033be2
+a582a1b8-5ad3f43d
+bd6dd170-ca7d8d80
+c2f7bf91-ca7d8d80
+3e672fd9-ca7d8d80
+6ddea229-ca7d8d80
+3e034797-ca7d8d80
+74be468c-ca7d8d80
+b5ddc834-3f4a17df
+5e3a236d-4113a79e
+e253e9e-ca7d8d80
+930b1a0-377be55a
+b5683f7c-7d50b9c8
+c9046e6e-3f4a17df
+6ff79bbe-ca7d8d80
+7a32498-c6dff8d9
+b27582ea-33c3eba5
+a7038f69-ca7d8d80
+4076100b-108cf35e
+f390dfc4-8c6d89b7
+d649160f-377be55a
+80258df6-377be55a
+819163c8-3c537ce4
+62e82091-4113a79e
+72c1eeea-377be55a
+bcb143fe-29cd044
+9f86ed8c-377be55a
+d19e0eaf-ca7d8d80
+b8debbbc-850cfe84
+a890eff4-377be55a
+11b4cb76-377be55a
+b56c57ae-a79d803f
+bf46f37a-ca7d8d80
+5c78b732-ca7d8d80
+9d3a5f71-c0c43ad1
+1edcddf4-f726f89c
+e6d1b915-3f4a17df
+5b7cc051-377be55a
+ff8b9cdb-377be55a
+53c64de7-cbb04a2d
+c046d00b-ecbb0ec3
+58065933-3f4a17df
+a374fdf0-1416e3f6
+9a1e45b8-377be55a
+9c8d7cea-513da83e
+daa70516-ca7d8d80
+b7f7e802-ca7d8d80
+ea89c38c-ca7d8d80
+30182132-45bb3b7d
+74aec266-ca7d8d80
+e4366ae9-709f07b
+494d8760-52325d43
+3ac60855-486e2a9c
+63dcb6a3-d65786f4
+e706e746-30940ecb
+f296190c-45641d72
+4442aae2-4ad60575
+f690cf64-6bdfffe7
+ed1d377-e1cc0f14
+75f0f0a0-6bdfffe7
+710c3f90-6bdfffe7
+e2b18481-7564fb06
+e7e71889-4ad60575
+4bf7344-ca7d8d80
+a65cda5-f4266398
+4b30302b-377be55a
+31307d07-ca7d8d80
+2f6246c2-ca7d8d80
+e1933810-8b05fe37
+aa8204ea-ca7d8d80
+2a2ebc2c-26b67c8f
+ea6b5a9c-ca7d8d80
+1572bcde-ca7d8d80
+95d4c923-a22c9c1d
+645bf78f-d57d1501
+b357b792-c836f3a2
+f4f00e05-ca7d8d80
+9481ce98-3d47f4f4
+2a426c03-3d47f4f4
+aca9df2c-3f4a17df
+a3bc7210-dee66fa8
+b100ac4-dee66fa8
+4651ad61-8533ea9a
+59748665-4866ef6e
+65250343-206f6a6e
+553aead6-8e9604d4
+fe4babb8-8e9604d4
+6205871c-4866ef6e
+382b54bb-29f03e2f
+70678518-dee66fa8
+be338734-4866ef6e
+6f316e34-206f6a6e
+5f9907a9-206f6a6e
+8eeccb9a-c35b209e
+2b465683-206f6a6e
+52fc7926-ee3d6169
+bc9b361d-dee66fa8
+a41a7188-b184655b
+ff71bfdc-dee66fa8
+a6fa7475-dee66fa8
+2159dd0c-dee66fa8
+92cfa89f-dee66fa8
+6daa4147-dee66fa8
+8601fbe0-3d47f4f4
+4ed45b7a-3d47f4f4
+4b935545-3d47f4f4
+9a38bae3-6046c8a7
+2d1e43a3-3d47f4f4
+30e58f57-ca7d8d80
+c4a500a4-3d47f4f4
+370ace14-3f4a17df
+386dc267-3d47f4f4
+a4406b35-1657e2d6
+408da146-1657e2d6
+d69d967d-1166396
+3c8f75a1-7a2089c1
+d4e26075-fea05d06
+f6918184-a714ab2
